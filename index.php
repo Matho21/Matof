@@ -1,3 +1,13 @@
+<?php
+/*
+*Partie de traitement
+* 
+*/
+
+extract($_POST);
+
+?>
+
 /*
 *Ceci ce la page d'accueil avec le formulaire 
 *qui permettra à l'utilisateur de se connecter dans notre système
